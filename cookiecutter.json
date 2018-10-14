@@ -1,0 +1,12 @@
+{
+    "package_name": "dummydoc",
+    "description": "A simple Python package with automatic documentation",
+    "module_name": "dummy",
+    "author_name": "Bane Sullivan",
+    "author_email": "",
+    "year": "",
+    "github_account": "",
+    "_copy_without_render": [
+        "*.html"
+    ]
+}
