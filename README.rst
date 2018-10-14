@@ -14,7 +14,7 @@ documented Python package.
 Get Started
 -----------
 
-Install ``gendocs`` and `cookiecutter`` from PyPI:
+Install ``gendocs`` and `cookiecutter` from PyPI:
 
 .. code-block:: bash
 
