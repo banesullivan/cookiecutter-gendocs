@@ -1,7 +1,5 @@
-"""{{cookiecutter.module_name}}
-{% for _ in cookiecutter.module_name %}-{% endfor %}
-
-This is an example RST docstring for your new module in your new Python package.
+"""This is an example RST docstring for your new module in your new
+Python package.
 
 Always be sure to define an ``__all__`` list in your modules! Otherwise
 ``gendocs`` will ignore your code.
