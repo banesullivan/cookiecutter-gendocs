@@ -27,6 +27,7 @@ from gendocs import Generator
 Generator().DocumentPackages([{{cookiecutter.package_name}}],
                              '../../README.rst',
                              showprivate=True,
+                             notify=False,
                             )
 
 
